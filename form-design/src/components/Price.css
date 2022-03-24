@@ -1,0 +1,46 @@
+.button-group{
+    text-align: center;
+    margin: 3em 0;
+}
+.button1{
+    border: none;
+    padding: 0.7em;
+    background-color: blue;
+    border-radius: 1.5em;
+}
+.cards{
+    display: flex;
+}
+.card{
+    width: 30%;
+    text-align: center;
+    background-color: #ffffff;
+    box-shadow: 0 0 5px 2px #201d1d;
+    border-radius: 2em;
+    margin: 2em;
+}
+.card-padding{
+    padding: 3em 1em 1em 1em;
+}
+.card-padding2{
+    padding: 0em 1em 1em 1em;
+}
+.icon{
+    height: 12vh !important;
+    width: 20% !important;
+    position: relative;
+    top: -1.8em;
+}
+.icon2{
+    height: 12vh !important;
+    width: 20% !important;
+    position: relative;
+}
+.road-map{
+    display: flex;
+}
+.road-map-item{
+    width: 30%;
+    text-align: center;
+    margin: 5em 0;
+}
